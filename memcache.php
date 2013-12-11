@@ -1,5 +1,7 @@
 <?php
-
+/**
+@author cookpan001
+*/
 class memcached
 {
 
